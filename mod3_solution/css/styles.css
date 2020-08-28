@@ -1,0 +1,61 @@
+#bttn {
+	width: 35px;
+	height: 3px;
+	margin: 6px 0;
+	background-color: black;
+}
+
+#header-nav {
+	border-radius: 0;
+	background-color: yellow;
+}
+
+button {
+	background-color: yellow;
+	border-radius: 7px;
+	float: right;
+	margin-top: 10px;
+}
+
+.navbar-header {
+	width: 100%;
+	background-color: yellow;
+}
+
+@media (min-width: 768px) {
+	#content-mobile {
+		visibility: hidden;
+	}
+}
+
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: #951C49;
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #e7e7e7;
+}
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+li {
+	text-align: center;
+}
+.text-center {
+	margin-top: 15px;
+}
+
+#mest {
+	background-color: blue;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+}
+h4 {
+	padding: 15px;
+}
